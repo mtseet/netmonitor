@@ -11,10 +11,13 @@ Assumes code is cloned to /home/user/github/netmonitor
 
 ## Dependencies
 
+```
 sudo apt install tcpdump sqlite3
+```
 
 ## Usage
 
+```
 #start capture
 
 sudo ./process.py &
@@ -26,6 +29,7 @@ sudo ./process.py &
 #see more net stats
 
 /usr/bin/python3 $rootpath/query.py latest
+```
 
 for GUI
 serve ipstat.php via php
