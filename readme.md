@@ -16,12 +16,15 @@ sudo apt install tcpdump sqlite3
 ## Usage
 
 #start capture
+
 sudo ./process.py &
 
 #test data is being captured
+
 /usr/bin/python3 ./query.py todaytotal
 
 #see more net stats
+
 /usr/bin/python3 $rootpath/query.py latest
 
 for GUI
