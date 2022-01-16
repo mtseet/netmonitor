@@ -30,5 +30,5 @@ You can for example deploy nginx and php-frm use that to serve the php GUI.
 
 ## Screenshot
 
-See [Screenshot](https://https://github.com/mtseet/netmonitor/blob/master/Screenshot%20from%202022-01-16%2013-53-04.png).
+See [Screenshot](https://github.com/mtseet/netmonitor/blob/master/Screenshot%20from%202022-01-16%2013-53-04.png).
 
